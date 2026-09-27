@@ -1,0 +1,68 @@
+[
+  {
+    "brand": "Apple",
+    "model": "iPhone 16 Pro Max",
+    "releaseYear": 2024,
+    "priceUSD": 1199,
+    "display": "6.7-inch OLED, 120Hz",
+    "camera": "48MP Triple Camera",
+    "battery": "5000mAh",
+    "chipset": "A18 Bionic",
+    "os": "iOS 18"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "releaseYear": 2024,
+    "priceUSD": 1299,
+    "display": "6.8-inch Dynamic AMOLED, 120Hz",
+    "camera": "200MP Quad Camera",
+    "battery": "5300mAh",
+    "chipset": "Snapdragon 8 Gen 3",
+    "os": "Android 14"
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 9 Pro",
+    "releaseYear": 2024,
+    "priceUSD": 999,
+    "display": "6.5-inch OLED, 120Hz",
+    "camera": "50MP Dual Camera",
+    "battery": "4800mAh",
+    "chipset": "Tensor G4",
+    "os": "Android 14"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "OnePlus 13",
+    "releaseYear": 2024,
+    "priceUSD": 699,
+    "display": "6.55-inch Fluid AMOLED, 120Hz",
+    "camera": "50MP Triple Camera",
+    "battery": "5000mAh",
+    "chipset": "Snapdragon 8 Gen 3",
+    "os": "Android 14"
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 14 Pro",
+    "releaseYear": 2024,
+    "priceUSD": 599,
+    "display": "6.73-inch AMOLED, 120Hz",
+    "camera": "50MP Triple Camera",
+    "battery": "5000mAh",
+    "chipset": "Snapdragon 8 Gen 3",
+    "os": "Android 14"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto Edge 40",
+    "releaseYear": 2024,
+    "priceUSD": 399,
+    "display": "6.5-inch OLED, 90Hz",
+    "camera": "108MP Triple Camera",
+    "battery": "4700mAh",
+    "chipset": "Snapdragon 8+ Gen 2",
+    "os": "Android 13"
+  }
+]

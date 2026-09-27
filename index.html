@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Phone Compare Hub</title>
+  <meta name="description" content="Explore and compare the latest smartphones across all price ranges with a beautiful dark‑mode UI." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>📱 Phone Compare Hub</h1>
+    <p>Latest flagship and budget phones – pick two to see a side‑by‑side spec table.</p>
+  </header>
+
+  <section class="controls">
+    <input type="text" id="search" placeholder="Search by brand or model…" />
+    <select id="brandFilter">
+      <option value="all">All Brands</option>
+    </select>
+  </section>
+
+  <section class="phone-list" id="phoneList"></section>
+
+  <section class="compare-table" id="compareTable" hidden>
+    <h2>Comparison</h2>
+    <table>
+      <thead id="compareHeader"></thead>
+      <tbody id="compareBody"></tbody>
+    </table>
+    <button id="clearCompare">Clear Selection</button>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
